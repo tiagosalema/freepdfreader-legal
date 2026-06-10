@@ -1,6 +1,6 @@
 # Privacy Policy — Free PDF Reader
 
-_Last updated: 8 May 2026._
+_Last updated: 10 June 2026._
 
 This privacy policy describes what data the **Free PDF Reader** Android app (the "App") processes and why. It is published by Tiago Salema (Salema Technologies), the sole developer.
 
@@ -40,9 +40,9 @@ Privacy details: [Firebase Privacy and Security](https://firebase.google.com/sup
 
 ### 2. Google AdMob (advertising)
 
-The free version of the App displays one native ad in the Recents list on the home screen.
+The free version of the App displays two ad placements, both on the home screen only: one native ad in the Recents list and one banner ad at the bottom of the screen. No ads are shown while you are reading a document.
 
-**Consent first.** Before any ad-related data is collected, you may see a consent dialog (provided by Google's User Messaging Platform). The dialog appears on first launch in jurisdictions where consent is required (UK, EEA, Switzerland, applicable US states). You can revisit and change your choice at any time via the **⋮ menu → Privacy choices** on the home screen. If you decline consent, no ads are served to you.
+**Consent first.** Before any ad-related data is collected, you may see a consent dialog (provided by Google's User Messaging Platform). The dialog appears on first launch in jurisdictions where consent is required (UK, EEA, Switzerland, applicable US states). You can revisit and change your choice at any time via the **⋮ menu → Privacy choices** on the home screen. If you decline consent, you may still see ads, but they are non-personalised: served without the Advertising ID, using only contextual information (such as the approximate location derived from your IP address). Until you have made a choice in the dialog, no ads are requested at all.
 
 **What AdMob may collect (after consent, where required):**
 
@@ -73,7 +73,7 @@ To be explicit: the App does **not**:
 
 ## Children
 
-The App is **not directed at children under 13**. The Recents native ad slot is configured as not child-directed and not for users under the age of consent. We do not knowingly process data from children under 13.
+The App is **not directed at children under 13**. All ad slots are configured as not child-directed and not for users under the age of consent. We do not knowingly process data from children under 13.
 
 ## Permissions
 
